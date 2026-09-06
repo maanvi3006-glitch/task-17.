@@ -1,0 +1,11 @@
+{
+  "input_rows": 18821,
+  "dropped_exact_duplicates": 342,
+  "dropped_duplicate_order_ids": 27,
+  "dropped_missing_required_fields": 343,
+  "dropped_future_dated_rows": 36,
+  "refund_rows_found": 264,
+  "zero_amount_rows_found": 68,
+  "clean_rows": 17741,
+  "pct_rows_retained": 94.26
+}

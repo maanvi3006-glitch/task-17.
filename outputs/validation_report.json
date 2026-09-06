@@ -1,0 +1,7 @@
+{
+  "stability_pct_customers_same_segment": 76.7,
+  "warnings": [
+    "Segments 'At Risk' and 'Potential Loyalists' have near-identical average monetary value -- check if they should be merged.",
+    "188 customer(s) have no valid purchase history and were excluded from segmentation."
+  ]
+}

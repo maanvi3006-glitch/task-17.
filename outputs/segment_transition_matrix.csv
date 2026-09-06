@@ -1,0 +1,11 @@
+segment_past,About To Sleep,At Risk,Champions,Hibernating,Lost,Loyal Customers,Need Attention,New Customers,Potential Loyalists,Promising
+About To Sleep,526,0,0,2,15,0,3,0,1,0
+At Risk,0,256,12,3,0,1,0,0,0,0
+Champions,0,0,860,0,0,92,30,0,10,0
+Hibernating,0,0,0,181,0,0,0,0,1,0
+Lost,0,0,0,0,472,0,0,0,0,0
+Loyal Customers,0,36,213,1,0,163,94,0,8,0
+Need Attention,0,12,3,6,0,1,123,0,15,0
+New Customers,0,0,0,0,0,0,0,25,50,68
+Potential Loyalists,0,0,23,0,0,4,55,0,156,69
+Promising,26,0,0,0,0,0,0,0,36,165
